@@ -3511,7 +3511,7 @@ const PDFViewerApplication = {
   web_print_service__WEBPACK_IMPORTED_MODULE_19__.PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
 }
 {
-  const HOSTED_VIEWER_ORIGINS = ["null", "http://web-doc.its2.fun", "https://alist-web-proxy.itansuo.info"];
+  const HOSTED_VIEWER_ORIGINS = ["null", "https://web-doc.its2.fun", "https://alist-web-proxy.itansuo.info"];
   var validateFileURL = function (file) {
     if (!file) {
       return;
