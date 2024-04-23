@@ -3511,7 +3511,7 @@ const PDFViewerApplication = {
   web_print_service__WEBPACK_IMPORTED_MODULE_19__.PDFPrintServiceFactory.initGlobals(PDFViewerApplication);
 }
 {
-  const HOSTED_VIEWER_ORIGINS = ["null", "http://mozilla.github.io", "https://mozilla.github.io"];
+  const HOSTED_VIEWER_ORIGINS = ["null", "http://web-doc.itansuo.info", "https://mozilla.github.io"];
   var validateFileURL = function (file) {
     if (!file) {
       return;
